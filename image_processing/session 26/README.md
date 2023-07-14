@@ -17,7 +17,7 @@
 ## input
 ![input3](https://github.com/yasinnorozzadeh/pylearn7/assets/88095232/ab4cbab4-dc80-4cb4-8673-e751d22916db)
 ## output
-![test3](https://github.com/yasinnorozzadeh/pylearn7/assets/88095232/7303104a-fed7-4c0f-bb19-f19aa9f30420)
+![test3](https://github.com/yasinnorozzadeh/pylearn7/assets/88095232/e3f04d58-fb32-4ba6-89ce-5116cbd653c9)
 
 # Design first character of name
 ![test2](https://github.com/yasinnorozzadeh/pylearn7/assets/88095232/c0726f5e-7803-47fc-9ce0-820502c544d4)
