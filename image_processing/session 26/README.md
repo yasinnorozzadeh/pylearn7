@@ -11,12 +11,13 @@
 ### input
 ![input2](https://github.com/yasinnorozzadeh/pylearn7/assets/88095232/b478d13c-a0bf-4737-b073-7b22d5dc1c70)
 ### output
-
+![test2](https://github.com/yasinnorozzadeh/pylearn7/assets/88095232/176d8fc5-9434-4ab4-bd74-9b2b9fab2716)
 
 # Rotate image
 ## input
 ![input3](https://github.com/yasinnorozzadeh/pylearn7/assets/88095232/ab4cbab4-dc80-4cb4-8673-e751d22916db)
 ## output
+![test3](https://github.com/yasinnorozzadeh/pylearn7/assets/88095232/7303104a-fed7-4c0f-bb19-f19aa9f30420)
 
 # Design first character of name
 ![test2](https://github.com/yasinnorozzadeh/pylearn7/assets/88095232/c0726f5e-7803-47fc-9ce0-820502c544d4)
