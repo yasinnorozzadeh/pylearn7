@@ -7,6 +7,5 @@
 # ![plus-6-24 (1)](https://github.com/yasinnorozzadeh/pylearn7/assets/88095232/0872ec7d-142c-4a82-be45-aed70977b593) [_Checkered board_](https://github.com/yasinnorozzadeh/pylearn7/blob/main/python/sission%2005/practice/Checkered%20board.py)
 ![Screenshot ](https://github.com/yasinnorozzadeh/pylearn7/assets/88095232/eb47dcb2-c9e4-4087-802e-b1c7c6e61b35)
 
-# ![plus-6-24 (2)](https://github.com/yasinnorozzadeh/pylearn7/assets/88095232/a25255d1-c711-40c2-8d01-901eeedea0a8) [_Khayyam Pascal's triangle](https://github.com/yasinnorozzadeh/pylearn7/blob/main/python/sission%2005/practice/Khayyam%20Pascal.py)
+# ![plus-6-24 (2)](https://github.com/yasinnorozzadeh/pylearn7/assets/88095232/a25255d1-c711-40c2-8d01-901eeedea0a8) [_Khayyam Pascal's triangle_](https://github.com/yasinnorozzadeh/pylearn7/blob/main/python/sission%2005/practice/Khayyam%20Pascal.py)
 ![Screenshot ](https://github.com/yasinnorozzadeh/pylearn7/assets/88095232/f2f47730-0c38-4b8e-8e30-8ef628fd4c1a)
-
