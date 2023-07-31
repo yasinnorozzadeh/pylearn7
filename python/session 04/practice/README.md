@@ -1,1 +1,2 @@
-# ![star-6-24](https://github.com/yasinnorozzadeh/pylearn7/assets/88095232/c0f9fda2-8f77-4209-a9e3-19345fbc2604) [*Reverse list*](https://github.com/yasinnorozzadeh/pylearn7/assets/88095232/dfc38ead-4eca-4cf9-9297-4d24b88e1c79)
+# ![star-6-24](https://github.com/yasinnorozzadeh/pylearn7/assets/88095232/c0f9fda2-8f77-4209-a9e3-19345fbc2604) [*Reverse list*]()
+![oplist](https://github.com/yasinnorozzadeh/pylearn7/assets/88095232/9473c80b-a22d-46d8-b1b7-d93158b8aba9)
