@@ -6,3 +6,6 @@
 
 # ![star-6-24 (6)](https://github.com/yasinnorozzadeh/pylearn7/assets/88095232/c49f593a-3de5-44ee-947f-05675e4aa4e7) [*Factorial number*](https://github.com/yasinnorozzadeh/pylearn7/blob/main/python/session%2004/practice/Factorial%20number.py)
 ![fa](https://github.com/yasinnorozzadeh/pylearn7/assets/88095232/1ead58db-7f21-4be6-836b-adbf25a86382)
+
+# ![star-6-24 (5)](https://github.com/yasinnorozzadeh/pylearn7/assets/88095232/e70a14e8-b13b-42a6-bb48-b6a232649e80) [*Qrcode*](https://github.com/yasinnorozzadeh/pylearn7/blob/main/python/session%2004/practice/qr.py)
+![qr](https://github.com/yasinnorozzadeh/pylearn7/assets/88095232/d4aac4c0-0a86-4683-a2aa-e0d48ddb0e08)
