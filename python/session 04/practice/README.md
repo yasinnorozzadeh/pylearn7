@@ -2,4 +2,4 @@
 ![oplist](https://github.com/yasinnorozzadeh/pylearn7/assets/88095232/9473c80b-a22d-46d8-b1b7-d93158b8aba9)
 # ![star-6-24 (1)](https://github.com/yasinnorozzadeh/pylearn7/assets/88095232/53f0572c-404a-4ed7-8a84-1d56fb1ddce7) [*Remove_duplicate_elements*]()
 ![rde](https://github.com/yasinnorozzadeh/pylearn7/assets/88095232/903f7323-4136-4ff6-8c27-680604c150f0 = 100x100)
-
+<img src="https://github.com/yasinnorozzadeh/pylearn7/assets/88095232/903f7323-4136-4ff6-8c27-680604c150f0" width="200" height="200" />
